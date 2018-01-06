@@ -1,10 +1,22 @@
 # [bigO Cheat Sheet](http://bigocheatsheet.com/)
 
+# References and pointers
+- pointer and reference: essentially points to a place in memory, but what you can do is with them is different
+- they both serve as a way to quickly get to place in memory
+```c++
+    int* //  is the declaration for an int pointers
+    int& //is the declaration for an int  reference
+```
 
-# References vs pointers
+## References vs pointers
 
 - pointers can be null and be changed
 - references are set to a single memory spot and must be set at instantiation
+
+## uses
+- pointers can be used to maintain and keep track of 
+
+
 
 # USING NAMESPACE <libraries>
 - cons: if using multiple libraries, if they have the same function it could cause errors

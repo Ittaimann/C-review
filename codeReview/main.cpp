@@ -2,7 +2,8 @@
 #include "person.hpp"
 #include "student.hpp"
 int main(){
-    person bill(50,"bill");
+
+     person bill(50,"bill");
     person jane(0," ");
     student ke(1,"ke",10,10);
     
@@ -14,7 +15,7 @@ int main(){
     ke.setYear(1);
     std::cout<<ke.toString()<<std::endl;
     std::cout<< jane.toString() <<std::endl;
-    std::cout << bill.toString() << std::endl;
+    std::cout << bill.toString() << std::endl; 
 
     return 0;
 }

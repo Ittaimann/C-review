@@ -169,3 +169,4 @@
 - c++ allows us to take a function with the same name, and construct another function with the same name, but different parameters, this includes things like class constructors so we can have multiple different possible derivatives.
 # Friend
 - can touch private variables...
+

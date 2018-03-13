@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "D:\\ittai\\Documents\\Review"
+		},
+		{
+			"path": "D:\\code\\c++\\Thornton\\45"
+		},
+		{
+			"path": "D:\\code\\CLionProjects"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"random": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp"
+		}
+	}
+}

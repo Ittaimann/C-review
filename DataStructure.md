@@ -34,7 +34,8 @@
 # stack
 - essentially a Queue, BUT IN REVERSE. It is last in first out (think cookie jar). Again we use push and pop 
 
-## maps
+# [maps](http://en.cppreference.com/w/cpp/container/unordered_map)
+
 # sets
 - an unorderd list of elements where insertion is simple O(log n) (as the order no longer matters). removing from a set and checking for an elements exsistance can really depend on the underlying container. Having it as a linked list versus having it be a heap or red black tree can lead to a lot of different complexity class jumps based on implementation. For example the default c++ set is implemented via red black trees with incredibly fast O(log n) search insert and delete. 
 - another important detail. no duplicate elements.
